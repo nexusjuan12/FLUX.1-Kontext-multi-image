@@ -3,3 +3,4 @@ git+https://github.com/huggingface/diffusers.git
 accelerate
 safetensors
 sentencepiece
+gguf>=0.9.0
